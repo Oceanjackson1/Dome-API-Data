@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs & output
+*.log
+*.out
+*_log.txt
+
+# Claude
+.claude/
+
+# Data output (too large for git)
+BTC订单簿-*/
+BTC-Poly-*/
